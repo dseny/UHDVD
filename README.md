@@ -5,9 +5,8 @@ Pytorch Implementation of ICCV21 "[Multi-Scale Separable Network for Ultra-High-
 
 ## 4KRD
 ![Exampls of 4KRD](./figures/4krd.png)
-Download 4KRD dataset: https://drive.google.com/drive/folders/19bjJLMgQkwIAQaZYvsUhEVaxzJQFwhHF?usp=sharing
-Please download training datasets (4KRD/GoPro/DVD/REDS) into './datas/XXXX'. <br/>
-Running the following command to obtain files: 'train_blur_list.txt' and 'train_sharp_list.txt'
+Please download training datasets (4KRD/GoPro/DVD/REDS) into './datas/XXXX'. [4KRD dataset here](https://drive.google.com/drive/folders/19bjJLMgQkwIAQaZYvsUhEVaxzJQFwhHF?usp=sharing) <br/>
+Running the following command to obtain files: 'train_blur_list.txt' and 'train_sharp_list.txt' in './datas/XXXX'.
 ```
 python txt_list.py
 ```
