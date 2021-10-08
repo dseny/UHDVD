@@ -5,7 +5,7 @@ The framework of our UHDVD model. <br/>
 ![Pipeline of UHDVD](./figures/framework.png)
 
 ## 4KRD Dataset:
-Some Examples from our 4KRD dataset: <br/>
+Some examples from our 4KRD dataset: <br/>
 ![Examples of 4KRD](./figures/4krd.png)
 Please download training datasets (4KRD/GoPro/DVD/REDS) into './datas/XXXX'. [4KRD dataset here](https://drive.google.com/drive/folders/19bjJLMgQkwIAQaZYvsUhEVaxzJQFwhHF?usp=sharing) <br/>
 Running the following command to obtain files: 'train_blur_list.txt' and 'train_sharp_list.txt' in './datas/XXXX'.
