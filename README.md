@@ -12,7 +12,7 @@ python txt_list.py
 ```
 
 ## Dependences
-4KRD Pretrained models are stored in './checkpoints/4KRD'. 
+4KRD pretrained models are stored in './checkpoints/4KRD'. 
 
 __For requires, run following commands.__
 ```
