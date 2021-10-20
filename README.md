@@ -1,5 +1,5 @@
-# Multi-Scale Separable Network for Ultra-High-Defnition Video Deblurring
-Pytorch Implementation of ICCV21 poster "Multi-Scale Separable Network for Ultra-High-Defnition Video Deblurring" by Senyou Deng, Wenqi Ren\*, Yanyang Yan, Tao Wang, Fenglong Song, and Xiaochun Cao. <br/>
+# Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring
+Pytorch Implementation of ICCV21 poster "Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring" by Senyou Deng, Wenqi Ren\*, Yanyang Yan, Tao Wang, Fenglong Song, and Xiaochun Cao. <br/>
 <br/>
 The framework of our UHDVD model: <br/>
 ![Pipeline of UHDVD](./figures/framework.png)
@@ -42,7 +42,7 @@ If you think this work is useful for your research, please cite the following pa
 @inproceedings{deng2021multi,
   title={Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring},
   author={Deng, Senyou and Ren, Wenqi and Yan, Yanyang and Wang, Tao and Song, Fenglong and Cao, Xiaochun},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  booktitle={the IEEE/CVF International Conference on Computer Vision (ICCV)},
   pages={14030--14039},
   year={2021}
 }
